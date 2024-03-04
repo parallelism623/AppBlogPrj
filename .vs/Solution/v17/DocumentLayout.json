@@ -1,0 +1,865 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\data\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\services\\tokenservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\createaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\createaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|solutionrelative:src\\appblog.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\extensions\\modelvalidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\extensions\\modelvalidextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\authorization\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\authorization\\permissionpolicyprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\authorization\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\authorization\\permissionauthorizationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\forgetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\forgetpasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\seedwork\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\seedwork\\constants\\permissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\controllers\\adminapi\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\controllers\\adminapi\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|solutionrelative:src\\appblog.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\migrationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\migrationdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\seedwork\\constants\\userclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\seedwork\\constants\\userclaims.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\seedwork\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\seedwork\\constants\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|solutionrelative:src\\appblog.data\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.data\\appblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|solutionrelative:src\\appblog.data\\appblogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\content\\postactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\content\\postactivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\content\\postinseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\content\\postinseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\content\\postcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\content\\postcatergory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\domain\\content\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\domain\\content\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\changepasswordrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\loginaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\loginaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\extensions\\urlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\extensions\\urlhelperextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\data\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\data\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\extensions\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\extensions\\servicesextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\resetpasswordmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\resetpasswordmodelrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\emailsendcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\emailsendcontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\configoptions\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\configoptions\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.api\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6932E19A-3C6F-42FF-B4DB-6A3391D43866}|src\\AppBlog.Api\\AppBlog.Api.csproj|solutionrelative:src\\appblog.api\\services\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.webapp\\appblog.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA286F08-7E7A-40BF-8429-2923D0657B51}|src\\AppBlog.WebApp\\AppBlog.WebApp.csproj|solutionrelative:src\\appblog.webapp\\appblog.webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\requestdata\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\requestdata\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\data\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\data\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.data\\seedworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6999618B-C31F-4345-9D40-BBA023BF2B9B}|src\\AppBlog.Data\\Data.csproj|solutionrelative:src\\appblog.data\\seedworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\seedwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\system\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\system\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\system\\createupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\system\\createupdaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\pagedresultbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\pagedresultbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|c:\\users\\hieud\\code\\c#\\appblog\\src\\appblog.core\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE45A0C5-4AE0-4B7B-9581-5C466D020C13}|src\\AppBlog.Core\\Core.csproj|solutionrelative:src\\appblog.core\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1746412052:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\ProfileController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\ProfileController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\ProfileController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:02:46.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\RoleController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\RoleController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\RoleController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\RoleController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAqwGoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T06:41:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\UserController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\UserController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\UserController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\UserController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:47:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\AuthsController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\AuthsController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\AuthsController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:30:07.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\PostsController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\PostsController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\PostsController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:21:20.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:41:22.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:15:28.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\RoleDto.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\Data\\RoleDto.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\RoleDto.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\Data\\RoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T07:58:50.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenServices.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\TokenServices.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Services\\TokenServices.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\TokenServices.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Services\\TokenServices.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:33:24.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\CreateUserRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\CreateUserRequest.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:30:36.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Program.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:15:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateAccountRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\CreateAccountRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\CreateAccountRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\CreateAccountRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\CreateAccountRequest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:43:20.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Authorization\\PermissionRequirement.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionRequirement.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Authorization\\PermissionRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:21:55.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PermissionAuthorizationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionAuthorizationHandler.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Authorization\\PermissionAuthorizationHandler.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionAuthorizationHandler.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Authorization\\PermissionAuthorizationHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:19:55.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PermissionPolicyProvider.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionPolicyProvider.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Authorization\\PermissionPolicyProvider.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Authorization\\PermissionPolicyProvider.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Authorization\\PermissionPolicyProvider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:21:54.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\Program.cs",
+              "RelativeToolTip": "src\\AppBlog.WebApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T16:50:22.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ModelValidExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ModelValidExtensions.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Extensions\\ModelValidExtensions.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ModelValidExtensions.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Extensions\\ModelValidExtensions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:51:06.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgetPasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ForgetPasswordRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\ForgetPasswordRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ForgetPasswordRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\ForgetPasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:12:51.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Permissions.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\Permissions.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\SeedWork\\Constants\\Permissions.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\Permissions.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\SeedWork\\Constants\\Permissions.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwBwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:45:52.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\TokenController.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Controllers\\AdminAPI\\TokenController.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Controllers\\AdminAPI\\TokenController.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Controllers\\AdminAPI\\TokenController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:12:59.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserClaims.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\UserClaims.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\SeedWork\\Constants\\UserClaims.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\UserClaims.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\SeedWork\\Constants\\UserClaims.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:26:23.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\Roles.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\SeedWork\\Constants\\Roles.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\Constants\\Roles.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\SeedWork\\Constants\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:10:14.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Data\\DataSeeder.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\DataSeeder.cs",
+              "RelativeToolTip": "src\\AppBlog.Data\\DataSeeder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:04:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MigrationDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\MigrationDatabase.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\MigrationDatabase.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\MigrationDatabase.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\MigrationDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:21:15.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AppBlog.WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\appsettings.json",
+              "RelativeToolTip": "src\\AppBlog.WebApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-25T06:22:56.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppBlogContext.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\AppBlogContext.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Data\\AppBlogContext.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\AppBlogContext.cs",
+              "RelativeToolTip": "src\\AppBlog.Data\\AppBlogContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:30:15.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PostActivityLog.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostActivityLog.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Content\\PostActivityLog.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostActivityLog.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Content\\PostActivityLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:01:56.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PostInSeries.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostInSeries.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Content\\PostInSeries.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostInSeries.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Content\\PostInSeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:03:46.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Identity\\AppUser.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:02:55.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Identity\\AppRole.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:02:54.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PostCatergory.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostCatergory.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Content\\PostCatergory.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\PostCatergory.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Content\\PostCatergory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:01:57.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\Post.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Domain\\Content\\Post.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Domain\\Content\\Post.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Domain\\Content\\Post.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T14:01:52.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ChangePasswordRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ChangePasswordRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\ChangePasswordRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ChangePasswordRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\ChangePasswordRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:04:33.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginAccountRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\LoginAccountRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\LoginAccountRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\LoginAccountRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\LoginAccountRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T03:27:29.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UrlHelperExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\UrlHelperExtensions.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Extensions\\UrlHelperExtensions.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\UrlHelperExtensions.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Extensions\\UrlHelperExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:25:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\appsettings.json",
+              "RelativeToolTip": "src\\AppBlog.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-25T05:54:59.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PermissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\PermissionDto.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\Data\\PermissionDto.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\PermissionDto.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\Data\\PermissionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:27:32.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ServicesExtension.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ServicesExtension.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Extensions\\ServicesExtension.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Extensions\\ServicesExtension.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Extensions\\ServicesExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T09:32:34.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResetPasswordModelRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ResetPasswordModelRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\ResetPasswordModelRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\ResetPasswordModelRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\ResetPasswordModelRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T06:32:35.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\EmailSender.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:46:10.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailSendContent.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\EmailSendContent.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\EmailSendContent.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\EmailSendContent.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\EmailSendContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:44:39.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\ConfigOptions\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\ConfigOptions\\EmailSettings.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\ConfigOptions\\EmailSettings.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\ConfigOptions\\EmailSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:52:45.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Api\\Services\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Api\\Services\\IEmailSender.cs",
+              "RelativeToolTip": "src\\AppBlog.Api\\Services\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T05:35:51.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppBlog.WebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\AppBlog.WebApp.csproj",
+              "RelativeDocumentMoniker": "src\\AppBlog.WebApp\\AppBlog.WebApp.csproj",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.WebApp\\AppBlog.WebApp.csproj",
+              "RelativeToolTip": "src\\AppBlog.WebApp\\AppBlog.WebApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-25T04:21:15.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\SeedWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\SeedWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\SeedWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:56:26.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\SeedWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Data\\SeedWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Data\\SeedWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\AppBlog.Data\\SeedWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T14:56:28.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\UserDto.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\Data\\UserDto.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\Data\\UserDto.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\Data\\UserDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wCUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T15:10:01.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\RequestData\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\RequestData\\UpdateUserRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\RequestData\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T16:02:28.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CreateUpdateRoleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\System\\CreateUpdateRoleRequest.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\System\\CreateUpdateRoleRequest.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\System\\CreateUpdateRoleRequest.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\System\\CreateUpdateRoleRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:45:43.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoleClaimsDto.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\System\\RoleClaimsDto.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\System\\RoleClaimsDto.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\System\\RoleClaimsDto.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\System\\RoleClaimsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:29:04.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\PagedResult.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-24T08:03:02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PagedResultBase.cs",
+              "DocumentMoniker": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\PagedResultBase.cs",
+              "RelativeDocumentMoniker": "src\\AppBlog.Core\\Models\\PagedResultBase.cs",
+              "ToolTip": "C:\\Users\\hieud\\Code\\C#\\AppBlog\\src\\AppBlog.Core\\Models\\PagedResultBase.cs",
+              "RelativeToolTip": "src\\AppBlog.Core\\Models\\PagedResultBase.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T17:45:36.517Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

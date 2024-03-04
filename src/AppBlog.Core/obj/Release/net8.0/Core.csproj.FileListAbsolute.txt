@@ -1,0 +1,15 @@
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Release\net8.0\Core.deps.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Release\net8.0\Core.runtimeconfig.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Release\net8.0\Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Release\net8.0\Core.pdb
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.csproj.AssemblyReference.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.AssemblyInfoInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.AssemblyInfo.cs
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.sourcelink.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\refint\Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.pdb
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\Core.genruntimeconfig.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Release\net8.0\ref\Core.dll

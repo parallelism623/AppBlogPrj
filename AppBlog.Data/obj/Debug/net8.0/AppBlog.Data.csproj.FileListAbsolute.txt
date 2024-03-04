@@ -1,0 +1,6 @@
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.csproj.AssemblyReference.cache
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.AssemblyInfoInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.AssemblyInfo.cs
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\AppBlog.Data\obj\Debug\net8.0\AppBlog.Data.sourcelink.json

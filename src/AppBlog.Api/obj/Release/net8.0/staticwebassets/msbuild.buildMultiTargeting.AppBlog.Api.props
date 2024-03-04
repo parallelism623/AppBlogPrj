@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AppBlog.Api.props" />
+</Project>

@@ -1,0 +1,7 @@
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.csproj.AssemblyReference.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.AssemblyInfoInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.AssemblyInfo.cs
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.csproj.CoreCompileInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Api\obj\Release\net8.0\Data.Api.sourcelink.json

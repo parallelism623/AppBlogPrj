@@ -1,0 +1,15 @@
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Debug\net8.0\AppBlog.Core.deps.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Debug\net8.0\AppBlog.Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Debug\net8.0\AppBlog.Core.pdb
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.csproj.AssemblyReference.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.AssemblyInfoInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.AssemblyInfo.cs
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.csproj.CoreCompileInputs.cache
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.sourcelink.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\refint\AppBlog.Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.pdb
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\ref\AppBlog.Core.dll
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\bin\Debug\net8.0\AppBlog.Core.runtimeconfig.json
+C:\Users\hieud\Code\C#\AppBlog\src\AppBlog.Core\obj\Debug\net8.0\AppBlog.Core.genruntimeconfig.cache
